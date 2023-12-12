@@ -1,0 +1,89 @@
+.mainContent{
+   background: url('https://res.cloudinary.com/edifice-solutions/image/upload/v1702296695/background--pleso_d2fbm5.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+    padding-top:80px;
+}
+
+.maindiv{
+    min-height: 280px;
+    background: white;
+   
+    border-radius: 14px;
+    padding: 0px;
+
+}
+
+.maindivtwo{
+    min-height: 350px;
+    background: white;
+   
+    border-radius: 14px;
+    padding: 0px;
+
+}
+
+.mylogo{
+    width:70%;
+    margin-top: 20px;
+}
+
+.mainhead{
+    color:#e7b23f;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 15px;
+}
+
+.form-control {
+    border: 0;
+}
+
+.borderdiv{
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+
+.next{
+    background-color: #e7b23f;
+    color: white;
+    text-align: center;
+    padding:5px 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+   
+
+    
+}
+
+.circle{
+    width:50px;
+    height: 50px;
+    background-color: #e7b23f;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.show{
+    color:rgb(182, 182, 182);
+    font-size:13px;
+}
+
+.smalll{
+    font-size:12px;
+}
+
+.showborder{
+    border-bottom: 1px solid lightgrey;
+}
+
+.colorme{
+    color:#e7b23f;
+}
